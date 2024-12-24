@@ -1,0 +1,200 @@
+Abdomen pain was severe due to acne complications.
+The aneurysm ruptured after the antibiotic treatment failed.
+Arthritis pain increased after the asthma attack.
+The biopsy confirmed bladder cancer, causing bronchitis.
+The cardiologist diagnosed cerebellum issues due to cervical strain.
+Cholesterol levels rose due to chronic cirrhosis.
+Cochlear implants failed after colitis worsened.
+Conjunctivitis spread rapidly, leading to cystic fibrosis flare-up.
+Dermatitis symptoms were triggered by diabetes and dialysis.
+Eczema worsened after the embolism diagnosis and endometriosis.
+Encephalitis and epidemic caused epilepsy symptoms.
+Erythema developed with fibromyalgia, leading to a fracture.
+The gallbladder was inflamed due to gastroenteritis and gingivitis.
+Glaucoma and gonorrhea led to hematoma formation.
+Hepatitis caused hernia issues with hypertension symptoms.
+Hyperthyroidism caused hypoglycemia, despite immunization efforts.
+Inflammation led to insomnia and interstitial lung damage.
+Jaundice appeared alongside laryngitis and leukemia.
+Lymphoma worsened, revealing malaria and meningitis.
+Migraine triggered nephritis, which led to neurosis.
+Obesity worsened osteoarthritis, and osteoporosis was confirmed.
+Polyarthritis symptoms flared after prosthesis failure due to psoriasis.
+Pulmonary tests showed rheumatism, and scabies developed.
+Sinusitis worsened, triggering scoliosis and sepsis concerns.
+Tonsillitis appeared alongside tuberculosis, requiring ulcer treatment.
+Urology confirmed vaccine complications with varicose veins.
+Vertigo was a symptom of the viral Zika outbreak.
+Acromegaly led to adrenaline rushes and anemia symptoms.
+Anhedonia worsened despite antipyretic medications for apnea.
+Arthroplasty was required after asphyxia from ataxia.
+The autopsy revealed basal tumors were benign.
+Bradycardia resulted in a cauterization procedure for cholecystectomy.
+Colonoscopy confirmed comorbidity with craniectomy and cyanosis.
+Cystectomy was needed after diaphoresis symptoms developed.
+Diabetes caused dyspnea, along with dysphagia and dystrophy.
+Echocardiogram results showed ectopic beats and encephalopathy.
+Endocrinology prescribed an endoscopy for episiotomy complications.
+Fasciitis and fibrillation symptoms led to gastrostomy surgery.
+Glomerulonephritis tests revealed hematoma and hemorrhage risks.
+Hepatectomy followed the patient’s hysterectomy procedure for cancer.
+Iatrogenic conditions worsened after intubation and laminectomy.
+Laryngectomy was needed after laparotomy failed to control bleeding.
+Leukocytosis increased due to lymphadenopathy from an infection.
+Mastectomy followed by meningectomy was required for treatment.
+Myasthenia diagnosis led to myocarditis and difficulty breathing.
+Neurodegeneration led to ophthalmology consultations and osteotomy surgery.
+Ototoxicity caused hearing loss, followed by paracentesis.
+Pneumonectomy was needed for severe poliomyelitis complications.
+Pneumothorax was treated with prophylaxis and chest drainage.
+Radiography revealed renal damage and worsening retinopathy.
+Rhinoplasty was needed after salpingectomy complications from infection.
+Scintigraphy showed sinusotomy complications in the patient.
+Spondylitis was found after a splenectomy procedure.
+Surgical intervention was necessary after tachycardia developed.
+Thrombectomy cleared the clot, followed by a thyroidectomy.
+Tracheotomy was required after tympanoplasty complications arose.
+Ureterectomy surgery was essential following urethrectomy.
+Urinalysis was positive, confirming urology concerns.
+Vagotomy was performed, and vasectomy was scheduled afterward.
+Ventriculostomy was essential after the viral infection led to zoonosis.
+Abscess formed near the alveolus during the dental procedure.
+The angina attack was triggered by severe apoplexy.
+Arteritis led to swelling in the atherosclerosis plaque.
+The patient had bacteremia due to a bursitis infection.
+Cholecystitis worsened, causing pain in the cystitis region.
+The patient’s dementia symptoms were linked to dyskinesia.
+Eclampsia caused severe edema during the pregnancy.
+An encephalogram was needed after endometrium swelling occurred.
+Episiotomy complications delayed the fibrinogen clotting tests.
+Glycosuria was detected in the patient’s hematodynamics test.
+Herniorrhaphy was required after the patient’s hyponatremia worsened.
+Hypovolemia caused the ischemia symptoms to intensify.
+Leukopenia worsened due to mastitis and menorrhagia.
+The patient’s myocardial infarction led to narcosis complications.
+Pancytopenia caused a delay in the patient’s treatment.
+Peritonitis symptoms developed after the pleuritis diagnosis.
+Polyuria was noticed during the pneumonitis check-up.
+A sphygmomanometer confirmed the syncope episode during tests.
+Thrombophlebitis and thyroidectomy were discussed during follow-up care.
+Tympanoplasty surgery was scheduled following the ureterectomy concerns.
+Urinalysis showed abnormal results, prompting a urology consultation.
+Vagotomy was performed after the patient underwent a vasectomy.
+Ventriculostomy relieved pressure due to viral infection complications.
+The zoonosis was diagnosed after the patient traveled abroad.
+Acromegaly symptoms became worse with increased adrenaline production.
+Anemia symptoms were managed after treating the anhedonia.
+The antipyretic medication helped manage the patient’s apnea.
+Arthroplasty was scheduled after the patient suffered from asphyxia.
+Ataxia was diagnosed, leading to an emergency autopsy.
+Basal tumors were identified after the benign biopsy results.
+Bradycardia was treated with cauterization for the cholecystectomy.
+The patient was advised to undergo colonoscopy after a comorbidity check.
+The cystectomy removed the tumor after diaphoresis began.
+Diabetes worsened, causing difficulty breathing and dyspnea.
+The dysphagia test confirmed swallowing difficulty due to dystrophy.
+The echocardiogram detected an ectopic heartbeat, suggesting encephalopathy.
+The endocrinology department recommended an endoscopy for the patient.
+Episiotomy complications required immediate fibrinogen testing.
+The fascitis infection required fibrillation treatments to stabilize the patient.
+Gastrostomy surgery was performed after confirming glomerulonephritis.
+Hematoma was diagnosed during the hematology test.
+Hepatectomy was planned after hysterectomy results were reviewed.
+Iatrogenic conditions were confirmed after intubation complications arose.
+Laryngectomy was necessary following a failed laparotomy procedure.
+Leukocytosis was found, confirming lymphadenopathy as the cause.
+A mastectomy was planned due to the patient's meningectomy concerns.
+Myasthenia was diagnosed alongside myocarditis complications.
+Neurodegeneration led to further consultations with ophthalmology specialists.
+Ototoxicity resulted in hearing loss despite the paracentesis procedure.
+Pneumonectomy was required due to complications from poliomyelitis.
+Pneumothorax required immediate prophylaxis and oxygen therapy.
+Radiography results confirmed renal failure, followed by retinopathy.
+Rhinoplasty was performed after a salpingectomy caused complications.
+Scintigraphy was used to investigate possible sinusotomy failures.
+Spondylitis diagnosis required a follow-up after the splenectomy.
+Surgical intervention was required after the tachycardia diagnosis.
+Thrombectomy was performed to remove the clot in the thyroidectomy.
+Tracheotomy was necessary after the patient developed tympanoplasty complications.
+Ureterectomy surgery was followed by a urethrectomy for the patient.
+Urinalysis showed abnormal findings, prompting a urology consultation.
+Vagotomy helped improve conditions after vasectomy complications arose.
+Ventriculostomy was performed to relieve viral infection pressure.
+Zoonosis was diagnosed after the patient traveled to endemic areas.
+Abscess developed near the alveolus during routine dental care.
+Angina worsened due to the patient’s apoplexy history.
+Arteritis complications led to atherosclerosis progression and treatment.
+Bacteremia symptoms worsened due to untreated bursitis.
+Cholecystitis was diagnosed, exacerbating the existing cystitis condition.
+Dementia symptoms were linked to dyskinesia progression in the patient.
+Eclampsia resulted in significant edema in the patient’s legs.
+Encephalogram confirmed endometrium swelling, requiring immediate surgery.
+Episiotomy was complicated by fibrinogen abnormalities during delivery.
+Glycosuria prompted further testing of the patient’s hematodynamics levels.
+Herniorrhaphy was successful after complications from hyponatremia.
+Hypovolemia worsened following ischemia in the patient’s tissues.
+Leukopenia persisted despite mastitis treatment and menorrhagia management.
+Myocardial issues led to narcosis complications in the patient.
+Pancytopenia was noted in the lab results for the patient.
+Peritonitis symptoms progressed, making pleuritis treatment urgent.
+Polyuria was observed after the pneumonitis diagnosis.
+Sphygmomanometer confirmed syncope episodes during medical tests.
+Thrombophlebitis was diagnosed, requiring careful thyroidectomy management.
+Tympanoplasty surgery addressed hearing loss from ureterectomy issues.
+Urinalysis showed signs of urology concerns after testing.
+Vagotomy was performed after the patient had a vasectomy.
+Ventriculostomy relieved pressure due to the viral infection complications.
+Zoonosis spread after the patient visited an endemic region.
+Acromegaly symptoms worsened with high levels of adrenaline.
+Anemia symptoms were treated after anhedonia was identified.
+Antipyretic medications helped control apnea during the treatment process.
+Arthroplasty surgery was scheduled after asphyxia complications.
+Ataxia was diagnosed and followed by an autopsy for clarity.
+Basal cell carcinoma was found, but the tumor was benign.
+Bradycardia symptoms improved after cauterization and a cholecystectomy.
+The colonoscopy revealed comorbidity complications that needed attention.
+Cystectomy was needed to treat diaphoresis symptoms.
+Diabetes worsened due to dyspnea, and the patient needed treatment.
+Dysphagia was diagnosed, leading to dystrophy therapy.
+The echocardiogram showed ectopic heartbeats, possibly indicating encephalopathy.
+Endocrinology suggested an endoscopy after episiotomy complications arose.
+Fasciitis worsened, and the patient required fibrillation treatment.
+Gastrostomy surgery helped the patient manage glomerulonephritis.
+Hematoma occurred after a hematology test was conducted.
+Hepatectomy was performed after the patient’s hysterectomy procedure.
+Iatrogenic conditions were confirmed after intubation difficulties arose.
+Laryngectomy surgery was needed after a laparotomy complication.
+Leukocytosis was found along with lymphadenopathy, requiring treatment.
+Mastectomy and meningectomy were performed due to the patient's cancer.
+Myasthenia symptoms worsened, leading to a diagnosis of myocarditis.
+Neurodegeneration was confirmed, and ophthalmology treatment began.
+Ototoxicity caused hearing loss, followed by paracentesis to reduce pressure.
+Pneumonectomy was necessary due to complications from poliomyelitis.
+Pneumothorax symptoms led to prophylaxis treatment and further care.
+Radiography revealed renal complications and increasing retinopathy.
+Rhinoplasty corrected breathing issues after a salpingectomy.
+Scintigraphy confirmed sinusotomy complications in the patient.
+Spondylitis worsened after the patient had a splenectomy.
+Surgical intervention was required after tachycardia symptoms emerged.
+Thrombectomy was performed, followed by a thyroidectomy to manage symptoms.
+Tracheotomy was performed after complications arose from tympanoplasty.
+Ureterectomy was followed by urethrectomy to manage the patient’s condition.
+Urinalysis revealed urology issues, requiring consultation for treatment.
+Vagotomy was necessary to address issues following vasectomy.
+Ventriculostomy was performed to address viral complications and zoonosis.
+Abscess formed near the alveolus, requiring surgical treatment.
+Angina symptoms worsened due to apoplexy complications.
+Arteritis symptoms intensified alongside atherosclerosis development.
+Bacteremia was caused by untreated bursitis in the patient.
+Cholecystitis led to complications with cystitis development.
+Dementia was linked to advancing dyskinesia symptoms.
+Eclampsia resulted in dangerous edema during delivery.
+Encephalogram showed swelling in the endometrium area.
+Episiotomy complications led to abnormal fibrinogen levels.
+Glycosuria was detected during hematodynamics testing.
+Herniorrhaphy surgery was successful after hyponatremia issues were resolved.
+Hypovolemia worsened following an ischemia diagnosis.
+Leukopenia and mastitis symptoms were treated with antibiotics.
+Myocardial infarction required narcosis management for patient care.
+Pancytopenia required treatment for blood cell deficiencies.
+Peritonitis and pleuritis required aggressive treatment for recovery.
