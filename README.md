@@ -1,2 +1,4 @@
 # randomHealthDataCreator
-Create Random Health Data using proper health terms without the trouble of using patient information.
+Create random health data using proper health terms without having to use patient information.
+
+// still in progress
