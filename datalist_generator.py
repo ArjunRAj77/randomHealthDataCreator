@@ -66,8 +66,24 @@ def convert_to_txt(data):
     """Convert list to TXT."""
     return "\n".join(data).encode('utf-8')
 
-# Streamlit App
+# Streamlit App with Multiple Pages
 def main():
+    st.sidebar.title("Navigation")
+    pages = {
+        "Home": home_page,
+        "Generate Healthcare Terms": generate_page,
+    }
+    selection = st.sidebar.radio("Go to", list(pages.keys()))
+    pages[selection]()
+
+def home_page():
+    st.title("Welcome to the Healthcare Terms App")
+    st.write(
+        "This application allows you to generate random healthcare terms and download them as CSV or TXT files. "
+        "Use the navigation on the left to access the feature."
+    )
+
+def generate_page():
     st.title("Random Healthcare Terms Generator")
 
     st.sidebar.header("Settings")

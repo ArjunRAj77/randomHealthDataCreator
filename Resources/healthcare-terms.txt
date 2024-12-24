@@ -1,0 +1,200 @@
+Abdomen - ab dom en
+Acne - ak nee
+Aneurysm - an you rizm
+Antibiotic - an ti bye ot ic
+Arthritis - arth ry tis
+Asthma - az muh
+Biopsy - bye op see
+Bladder - blad er
+Bronchitis - bron kye tis
+Cardiologist - car dee ol o jist
+Cerebellum - ser uh bel um
+Cervical - ser vi cal
+Cholesterol - ko les ter ol
+Chronic - kron ik
+Cirrhosis - sir roh sis
+Cochlear - kok lee er
+Colitis - co lie tis
+Conjunctivitis - con junk tiv eye tis
+Cystic - sis tik
+Dermatitis - der mat eye tis
+Diabetes - die a beet eez
+Dialysis - die al ih sis
+Eczema - eks muh
+Embolism - em boh liz um
+Endometriosis - en doe meh tree oh sis
+Encephalitis - en sef uh lite is
+Epidemic - ep i dem ik
+Epilepsy - ep uh lep see
+Erythema - air i thee mah
+Fibromyalgia - fie bro my al jee uh
+Fracture - frak chur
+Gallbladder - gal blad er
+Gastroenteritis - gas tro en ter eye tis
+Gingivitis - jin ji vy tis
+Glaucoma - glaw ko mah
+Gonorrhea - gon oh ree uh
+Hematoma - hee mah toh mah
+Hepatitis - hep ah tie tis
+Hernia - her nee uh
+Hypertension - high per ten shun
+Hyperthyroidism - high per thy roy diz um
+Hypoglycemia - hypo gly see mee uh
+Immunization - im you ni zay shun
+Inflammation - in flam a shun
+Insomnia - in som nee uh
+Interstitial - in ter stish ul
+Jaundice - john dis
+Laryngitis - lar in jy tis
+Leukemia - loo kee mee uh
+Lymphoma - lim foh mah
+Malaria - mah lar ee uh
+Meningitis - men in jy tis
+Migraine - my grain
+Nephritis - nef rye tis
+Neurosis - noo roh sis
+Obesity - oh bee sit ee
+Osteoarthritis - oss tee oh arth rye tis
+Osteoporosis - oss tee oh poor oh sis
+Pneumonia - noo mon ee uh
+Polyarthritis - pol ee arth rye tis
+Prosthesis - pros thee sis
+Psoriasis - so rye ah sis
+Pulmonary - pull mo nar ee
+Rheumatism - roo muh tiz um
+Scabies - skay bees
+Sinusitis - sin you sy tis
+Scoliosis - scol ee oh sis
+Sepsis - sep sis
+Tonsillitis - ton sil eye tis
+Tuberculosis - too ber kyoo loh sis
+Ulcer - ull ser
+Urology - you rol oh gee
+Vaccine - vak seen
+Varicose - ver ih kose
+Vertigo - ver ti go
+Viral - vie ral
+Zika - zee kah
+Acromegaly - ack roh meg ah lee
+Adrenaline - uh dren uh lin
+Anemia - ah nee mee uh
+Anhedonia - an hee doh nee uh
+Antipyretic - an tee py ret ik
+Apnea - ap nee uh
+Arthroplasty - arth roh plas tee
+Asphyxia - as fix ee uh
+Ataxia - ah tax ee uh
+Autopsy - aw top see
+Basal - bay sul
+Benign - bee nighn
+Biopsy - by op see
+Bradycardia - brad ee kar dee uh
+Cauterization - kaw ter ih zay shun
+Cholecystectomy - chol eh sis tek toh mee
+Colonoscopy - co loh nos coh pee
+Comorbidity - co mor bid i tee
+Craniectomy - kran ee ek toh mee
+Cyanosis - sigh ah noh sis
+Cystectomy - sis tek toh mee
+Diaphoresis - die af oh ree sis
+Diabetes - die ah beet eez
+Dyspnea - disp nee uh
+Dysphagia - dis fay jee uh
+Dystrophy - dis troh fee
+Echocardiogram - ek oh kar dee oh gram
+Ectopic - ek top ik
+Encephalopathy - en sef ah loh path ee
+Endocrinology - en doe krin ol oh gee
+Endoscopy - en doh skoh pee
+Episiotomy - eh piz ee ot oh mee
+Fasciitis - fash ee eye tis
+Fibrillation - fib rih lay shun
+Gastrostomy - gas tros toh mee
+Glomerulonephritis - gloh mer yoo loh nef rye tis
+Hematology - hee mah tol oh gee
+Hemorrhage - hem uh rij
+Hepatectomy - hep ah tek toh mee
+Hysterectomy - his ter ek toh mee
+Iatrogenic - eye at roh jen ik
+Intubation - in too bay shun
+Laminectomy - lam ih nek toh mee
+Laryngectomy - lar in jek toh mee
+Laparotomy - lap ah rot oh mee
+Leukocytosis - loo koh sy toh sis
+Lymphadenopathy - limf a den oh path ee
+Mastectomy - mas tek toh mee
+Meningectomy - men in jek toh mee
+Myasthenia - my ass thee nee ah
+Myocarditis - my oh card eye tis
+Neurodegeneration - nur oh deh jen er ay shun
+Ophthalmology - off thal mol oh gee
+Osteotomy - oss tee ot oh mee
+Ototoxicity - oh toh tok sis i tee
+Paracentesis - par ah sen tee sis
+Pneumonectomy - noo moh nek toh mee
+Poliomyelitis - pol ee oh my el eye tis
+Pneumothorax - noo moh thor aks
+Prophylaxis - proh fi laks is
+Radiography - ray dee og rah fee
+Renal - ree nal
+Retinopathy - ret in oh path ee
+Rhinoplasty - rye noh plas tee
+Salpingectomy - sal ping ek toh mee
+Scintigraphy - sin tig rah fee
+Sinusotomy - sin us ot oh mee
+Spondylitis - spon dye lyte is
+Splenectomy - splen ek toh mee
+Surgical - ser jih kul
+Tachycardia - tak ee kar dee uh
+Thrombectomy - throm bek toh mee
+Thyroidectomy - thye roid ek toh mee
+Tracheotomy - tray kee ot oh mee
+Tympanoplasty - tim pan oh plas tee
+Ureterectomy - you reh ter ek toh mee
+Urethrectomy - yoo reeth rek toh mee
+Urinalysis - yoo ree nal ih sis
+Urology - yoo rol oh gee
+Vagotomy - vag ot oh mee
+Vasectomy - vah sek toh mee
+Ventriculostomy - ven trik oo loh stoh mee
+Viral - vie ral
+Zoonosis - zoo oh noh sis
+Abscess - ab sess
+Alveolus - al vee oh lus
+Angina - an jy nuh
+Apoplexy - ap oh plek see
+Arteritis - art er eye tis
+Atherosclerosis - ath er oh skluh roh sis
+Bacteremia - bak ter ee mee uh
+Bursitis - bur sy tis
+Cholecystitis - chol eh sis ty eh tis
+Cystitis - sis ty tis
+Cystocele - sis toh seel
+Dementia - deh men shuh
+Dyskinesia - dis kih nee zhuh
+Eclampsia - eh klamp see uh
+Edema - eh dee muh
+Encephalogram - en sef ah loh gram
+Endometrium - en doe mee tree um
+Epicondylitis - ep ee kon dye lyte is
+Episiotomy - eh piz ee ot oh mee
+Fibrinogen - fib ri noh jin
+Glycosuria - gly koh syur ee uh
+Hemodynamics - hee moh dye nam iks
+Herniorrhaphy - her nee oh raf ee
+Hyponatremia - high poh nah tree mee uh
+Hypovolemia - high poh voh lee mee uh
+Ischemia - is kee mee uh
+Leukopenia - loo koh pee nee uh
+Mastitis - mas tie tis
+Menorrhagia - men oh rah jee uh
+Myocardial - my oh kar dee al
+Narcosis - nar koh sis
+Pancytopenia - pan sy toh pee nee uh
+Peritonitis - per i toh ny tis
+Pleuritis - ploo rye tis
+Polyuria - pol ee yur ee uh
+Pneumonitis - noo moh ny tis
+Sphygmomanometer - sfig moh mah noh meh ter
+Syncope - sin koh pee
+Thrombophlebitis - throm boh fleh bye tis
